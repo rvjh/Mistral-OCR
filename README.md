@@ -1,3 +1,3 @@
 # Mistral-OCR
 
-!img [op-1-2.png]
+![screenshot](op-1-2.png)
